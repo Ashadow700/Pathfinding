@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\c++\PathFinding\PathFinding\Debug\TestPathFinding.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestNode1.TestName" Duration="4" />
+    <TestDuration Test="Node.mayVisit" Duration="1" />
+    <TestDuration Test="Node.visitFrom" Duration="1" />
+    <TestDuration Test="Node_visitFrom.mayVisit" Duration="1" />
+    <TestDuration Test="Node_visitFrom.visitFrom" Duration="1" />
+    <TestDuration Test="Node.size" Duration="1" />
+    <TestDuration Test="Node.TravelDistance" Duration="1" />
+    <TestDuration Test="Node.TravelDistance2" Duration="1" />
+    <TestDuration Test="Node.NodeMatrix" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

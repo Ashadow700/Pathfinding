@@ -1,0 +1,16 @@
+I would just like to take this moment to let you know that you are a beautiful and wonderful person, regardless of what anyone
+else may or may not have told you. Don't forget about that.
+
+Also, the executable is located under ./PathFinding/PathFinding/PathfindingApp. :)
+
+And, in order to compile this program, you need to install the following boost 1.68 packages.
+Install-Package boost
+Install-Package boost_date_time-vc141
+Install-Package boost_filesystem-vc141
+Install-Package boost_log-vc141
+Install-Package boost_system-vc141
+Install-Package boost_thread-vc141
+Install-Package boost_chrono-vc141
+Install-Package boost_log_setup-vc141
+Install-Package boost_chrono-vc141
+Install-Package boost_atomic-vc141

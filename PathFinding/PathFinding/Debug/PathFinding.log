@@ -1,0 +1,13 @@
+﻿  StartButton.cpp
+d:\c++\pathfinding\pathfinding\pathfinding\startbutton.cpp(34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\c++\pathfinding\pathfinding\pathfinding\startbutton.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\c++\pathfinding\pathfinding\pathfinding\startbutton.cpp(50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PathFinding.vcxproj -> D:\c++\PathFinding\PathFinding\Debug\PathFinding.exe
